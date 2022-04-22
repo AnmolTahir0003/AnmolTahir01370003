@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Anmol Tahir n01370003</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="anmol_tab">Anmol Tab</string>
+    <string name="tahir_tab">Tahir Tab</string>
+    <string name="name">Anmol Tahir</string>
+    <string name="firstName">Anmol</string>
 </resources>
