@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "AnmolFinalA"
-include ':app'
+include ':AnmolFinalBB'
